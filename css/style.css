@@ -13,25 +13,27 @@
 */
 
 /*dette gør at vores knappe har den rigtige røde farve - #EF4747*/
-.elementor-button{ 
+.elementor-button {
     background-color: #EF4747;
- }
+}
 
 
 /*disse to css endringer bestemmer vores to fonte på side.*/
-h2
-{ font-family: "Helvetica", Sans-serif;
+h2 {
+    font-family: "Helvetica", Sans-serif;
     letter-spacing: 2px !important;
 
 }
 
-.serie-text
-{ font-family: "Lato", Sans-serif !important;
-  line-height: 1.0em !important;
+.serie-text {
+    font-family: "Lato", Sans-serif !important;
+    line-height: 1.0em !important;
 }
 
-h3
-{ font-family: "Helvetica", Sans-serif !important;
-font-size: 16px !important;
+h3 {
+    font-family: "Helvetica", Sans-serif !important;
+    font-size: 16px !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
 
 }
